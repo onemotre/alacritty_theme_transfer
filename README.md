@@ -31,9 +31,9 @@ Put your old theme `old.yml` into file `theme_yml` and then run this command in 
 
 ### Use old one
 
-You can also use your old configure via following command (must use `sudo`):
+You can also use your old configure to `your usrname` via following command (must use `sudo`):
 ```bash
-sudo ./transfer.sh -i old
+sudo ./transfer.sh -i old -u usrname
 ```
 
 ## Recommond
