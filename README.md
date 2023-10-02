@@ -18,6 +18,10 @@ File orgnization
 └── transfer.sh
 ```
 
+### Depend
+
+This script run by `alacritty migrate` which can be found in [alacritty](https://github.com/alacritty/alacritty)
+
 ### Transfer
 
 Put your old theme `old.yml` into file `theme_yml` and then run this command in your shell
